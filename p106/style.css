@@ -1,0 +1,37 @@
+body{
+    background-color: chartreuse;
+    font-family: 'Rubik Gemstones', cursive;
+    font-family: 'Zen Dots', cursive;
+}
+
+.header_div{
+    background-color: azure;
+    color: deeppink;
+}
+
+.header_div p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
+    letter-spacing: 5px;
+    font-size: medium;
+}
+
+.main_div button{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-top: 40px;
+    width: 150px;
+    font-weight: inherit;
+    letter-spacing: 5px;
+    background-color: deeppink;
+}
+
+.copy_right_footer{
+    position: fixed;
+    bottom: 0;
+    background-color: aliceblue;
+    color: indianred;
+    width: 100%;
+    font-size: small;
+    line-height: 5;
+    text-shadow: 7px 7px 7px grey;
+}
